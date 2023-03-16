@@ -6,6 +6,7 @@ Automatização da actualização dos utilizadores do reflector TETRA Portugal (
 
 1 - Obter o script de actualização:
 ```
+cd
 cd /home/pi
 wget https://raw.githubusercontent.com/HamTetra-CT/users_update/main/update_tetra_users.sh
 ```
