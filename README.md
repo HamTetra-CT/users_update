@@ -15,7 +15,7 @@ sudo chmod +x /home/pi/update_tetra_users.sh
 ```
 3 - Criar um agendamento (semanal) para a actualização:
 
-+ Abrir o arquivo crontab para o usuário atual:
++ Abrir o arquivo crontab para o utilizador atual:
 ```
 sudo crontab -e
 ```
