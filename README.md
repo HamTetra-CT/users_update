@@ -4,17 +4,21 @@ Automatização da actualização dos utilizadores do reflector TETRA Portugal (
 
 **Instruções -**
 
-1 - Obter o script de actualização:
+#### 1 - Obter o script de actualização:
 ```
 cd
+```
+```
 cd /home/pi
+```
+```
 wget https://raw.githubusercontent.com/HamTetra-CT/users_update/main/update_tetra_users.sh
 ```
-2 - Tornar o script executável:
+#### 2 - Tornar o script executável:
 ```
 sudo chmod +x /home/pi/update_tetra_users.sh
 ```
-3 - Criar um agendamento (semanal) para a actualização:
+#### 3 - Criar um agendamento (semanal) para a actualização:
 
 + Abrir o arquivo crontab para o utilizador atual:
 ```
@@ -25,4 +29,4 @@ sudo crontab -e
 0 0 */7 * * /bin/bash /home/pi/update_tetra_users.sh
 ```
 
-Terminado! O script vai ser lançado todos os 7 dias e fazer a actualização do ficheiro "tetra_users.json" caso seja necessário. 
+#### Terminado! O script vai ser lançado todos os 7 dias e fazer a actualização do ficheiro "tetra_users.json" caso seja necessário. 
