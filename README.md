@@ -14,6 +14,7 @@ wget https://raw.githubusercontent.com/HamTetra-CT/users_update/blob/main/update
 sudo chmod +x /home/pi/update_tetra_users.sh
 ```
 3 - Criar um agendamento (semanal) para a actualização:
+
 Abrir o arquivo crontab para o usuário atual:
 ```
 sudo crontab -e
