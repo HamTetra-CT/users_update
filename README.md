@@ -22,3 +22,5 @@ Adicione uma nova linha ao arquivo crontab com o seguinte comando:
 ```
 0 0 */7 * * /bin/bash /home/pi/update_tetra_users.sh
 ```
+
+Terminado! O script vai ser lançado todos os 7 dias e fazer a actualização do ficheiro "tetra_users.json" caso seja necessário. 
