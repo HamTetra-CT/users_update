@@ -18,7 +18,13 @@ wget https://raw.githubusercontent.com/HamTetra-CT/users_update/main/update_tetr
 ```
 sudo chmod +x /home/pi/update_tetra_users.sh
 ```
-#### 3 - Criar um agendamento (semanal) para a actualização:
+#### 3 - Teste, agora, o script com o seguinte comando:
+```
+./update_tetra_users.sh
+```
+> (Deverá obter um retorno a indicar que a actualização foi concluída com sucesso.)
+
+#### 4 - Criar um agendamento (semanal) para a actualização:
 
 + Abrir o arquivo crontab para o utilizador atual:
 ```
@@ -29,4 +35,4 @@ sudo crontab -e
 0 0 */7 * * /bin/bash /home/pi/update_tetra_users.sh
 ```
 
-#### Terminado! O script vai ser lançado todos os 7 dias e fazer a actualização do ficheiro "tetra_users.json" caso seja necessário. 
+#### Terminado! O script vai ser lançado todos os 7 dias e fazer a actualização do ficheiro *"tetra_users.json"* caso seja necessário. 
