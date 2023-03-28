@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script by HamTetra-CT Dev Team
 echo "A inicializar..."
+sudo systemctl stop svxlink
 sleep 1
 
 # Download the latest version of the file from GitHub
@@ -18,4 +19,5 @@ if ! cmp -s /tmp/tetra_users.json /etc/svxlink/tetra_users.json; then
    rm /tmp/tetra_users.json
 fi
 echo "Atualização terminada!"
+sudo systemctl start svxlink
 sleep 1
