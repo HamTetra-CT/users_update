@@ -1,8 +1,10 @@
 # Portuguese TETRA Users Update
 
-Automatização da actualização dos utilizadores do reflector TETRA Portugal (HamTetra-CT).
+#### Automatização da actualização dos utilizadores do reflector TETRA Portugal (HamTetra-CT).
 
-**Instruções**
+
+**➜ Instruções**
+---
 
 #### 1 - Obter o script de actualização:
 ```
