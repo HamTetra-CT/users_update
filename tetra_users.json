@@ -107,7 +107,16 @@
         "call": "CT7AJM-8",
         "location": "Tetra",
         "symbol": "/[",
-        "comment": "Tetra Station"
+        "comment": "APRS via Tetra"
+    },
+    {   "tsi" : "09011638302683120", 
+        "idtype" : "tsi", 
+        "mode" : "TETRA", 
+        "name" : "Jose", 
+        "call" : "CT2GRF-8", 
+        "location" : "Tetra", 
+        "symbol" : "/[", 
+        "comment" : "portatil" 
     },
     {
         "tsi": "09011638302684011",
@@ -287,6 +296,6 @@
         "call": "F4VSE-8",
         "location": "Tetra",
         "symbol": "/[",
-        "comment": "Tetra Station"
+        "comment": "APRS via TETRA - STP9040"
     }
 ]
