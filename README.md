@@ -37,5 +37,5 @@ sudo crontab -e
 30 1 */2 * * /bin/bash /home/pi/update_tetra_users.sh
 ```
 
-### ✅ Terminado! O script vai ser lançado todos os 3 dias e fazer a actualização do ficheiro *"tetra_users.json"* caso seja necessário ou haja uma actualização disponível. 
+### ✅ Terminado! O script vai ser lançado todos os 2 dias e fazer a actualização do ficheiro *"tetra_users.json"* caso seja necessário ou haja uma actualização disponível. 
 ⚠️ Atenção! Para que a actualização/novo ficheiro passe a ter efeito, o serviço (programa) SVXLink tem de ser reiniciado. Por defeito isto acontece automaticamente por volta das 3 horas da manhã.  
