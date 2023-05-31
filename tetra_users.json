@@ -5,7 +5,7 @@
         "mode": "TETRA",
         "name": "Jorge Canena",
         "call": "CT1CVT-8",
-        "location": "Tetra",
+        "location": "Alcochete",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -15,7 +15,7 @@
         "mode": "TETRA",
         "name": "Rui Martins",
         "call": "CT1EBH-8",
-        "location": "Tetra",
+        "location": "Ramada",
         "symbol": "\\c",
         "comment": "Tetra Station"
     },
@@ -25,7 +25,7 @@
         "mode": "TETRA",
         "name": "João Saraiva",
         "call": "CT1EBZ-8",
-        "location": "Tetra",
+        "location": "Carnaxide",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -35,7 +35,7 @@
         "mode": "TETRA",
         "name": "Fernando Castanheira",
         "call": "CT1ETG-8",
-        "location": "Fernando",
+        "location": "Alcabideche",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -45,7 +45,7 @@
         "mode": "TETRA",
         "name": "Victor Barros",
         "call": "CT1FNG-8",
-        "location": "Tetra",
+        "location": "Lisboa",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -55,7 +55,7 @@
         "mode": "TETRA",
         "name": "José Silva",
         "call": "CT1FOE-8",
-        "location": "Tetra",
+        "location": "Portimão",
         "symbol": "/[",
         "comment": "APRS via TETRA"
     },
@@ -65,7 +65,7 @@
         "mode": "TETRA",
         "name": "Paulo Pereira",
         "call": "CT1HDC-8",
-        "location": "Tetra",
+        "location": "Lisboa",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -75,7 +75,7 @@
         "mode": "TETRA",
         "name": "Carlos Nora",
         "call": "CT1END-8",
-        "location": "Tetra",
+        "location": "Massamá Norte",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -85,7 +85,7 @@
         "mode": "TETRA",
         "name": "Vasco Lopes",
         "call": "CT7ADH-8",
-        "location": "Tetra",
+        "location": "Alpiarça",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -95,7 +95,7 @@
         "mode": "TETRA",
         "name": "Paulo Xarez",
         "call": "CT7AFY-8",
-        "location": "Tetra",
+        "location": "Lisboa",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -105,16 +105,26 @@
         "mode": "TETRA",
         "name": "Francisco Carmo",
         "call": "CT7AJM-8",
-        "location": "Tetra",
+        "location": "Lisboa",
         "symbol": "/[",
         "comment": "APRS via Tetra"
+    },
+    {
+        "tsi": "09011638302680410",
+        "idtype": "tsi",
+        "mode": "TETRA",
+        "name": "Telmo Carlos",
+        "call": "CT7AMZ-8",
+        "location": "Caldas da Rainha",
+        "symbol": "/[",
+        "comment": "MTH800 - APRS via Tetra"
     },
     {   "tsi" : "09011638302683120", 
         "idtype" : "tsi", 
         "mode" : "TETRA", 
         "name" : "Jose", 
         "call" : "CT2GRF-8", 
-        "location" : "Tetra", 
+        "location" : "Quinta Do Conde", 
         "symbol" : "/[", 
         "comment" : "portatil" 
     },
@@ -124,7 +134,7 @@
         "mode": "TETRA",
         "name": "Paulo Pires",
         "call": "CT2GKS-8",
-        "location": "Tetra",
+        "location": "Samouco",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -134,7 +144,7 @@
         "mode": "TETRA",
         "name": "Gonçalo Springer",
         "call": "CT2GQI-8",
-        "location": "Tetra",
+        "location": "Amadora",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -144,7 +154,7 @@
         "mode": "TETRA",
         "name": "Daniel Leitão",
         "call": "CT2GXZ-8",
-        "location": "Tetra",
+        "location": "Silveira",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -154,7 +164,7 @@
         "mode": "TETRA",
         "name": "Diogo Sentieiro",
         "call": "CT2HEW-8",
-        "location": "Tetra",
+        "location": "Oeiras",
         "symbol": "\\c",
         "comment": "Tetra Station"
     },
@@ -164,7 +174,7 @@
         "mode": "TETRA",
         "name": "Pedro Almeida",
         "call": "CT2HGP-8",
-        "location": "Tetra",
+        "location": "Orjo-Turquel",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -174,7 +184,7 @@
         "mode": "TETRA",
         "name": "Arlindo",
         "call": "CT2IDB-8",
-        "location": "Tetra",
+        "location": "Torres Vedras",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -184,7 +194,7 @@
         "mode": "TETRA",
         "name": "Daniel Mateus",
         "call": "CT2IUL-8",
-        "location": "Tetra",
+        "location": "Lisboa",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -194,7 +204,7 @@
         "mode": "TETRA",
         "name": "Victor Moreira",
         "call": "CT2IXP-8",
-        "location": "Tetra",
+        "location": "Alfena",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -204,7 +214,7 @@
         "mode": "TETRA",
         "name": "Gerardo Silva",
         "call": "CU3AT-8",
-        "location": "Tetra",
+        "location": "Angra Do Heroismo",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -214,7 +224,7 @@
         "mode": "TETRA",
         "name": "Paulo Martins",
         "call": "CS7AGH-8",
-        "location": "Tetra",
+        "location": "Seixal",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -224,7 +234,7 @@
         "mode": "TETRA",
         "name": "André Franco",
         "call": "CS7AQR-8",
-        "location": "Tetra",
+        "location": "Azueira",
         "symbol": "/[",
         "comment": "Tetra Portable"
     },
@@ -234,7 +244,7 @@
         "mode": "TETRA",
         "name": "José Melo",
         "call": "CT4TX-8",
-        "location": "Tetra",
+        "location": "Coimbra",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -244,7 +254,7 @@
         "mode": "TETRA",
         "name": "Carlos",
         "call": "CT5JKU-8",
-        "location": "Tetra",
+        "location": "LOURINHÃ",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -254,7 +264,7 @@
         "mode": "TETRA",
         "name": "Patricia",
         "call": "CT5JTW-8",
-        "location": "Tetra",
+        "location": "Alpiarça",
         "symbol": "/[",
         "comment": "Tetra Portable"
     },
@@ -264,7 +274,7 @@
         "mode": "TETRA",
         "name": "Gustavo Encarnação",
         "call": "CR7ATL-8",
-        "location": "Tetra",
+        "location": "Carcavelos",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -274,7 +284,7 @@
         "mode": "TETRA",
         "name": "Miguel Teixeira",
         "call": "CR7AUX-8",
-        "location": "Tetra",
+        "location": "Oeiras",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -284,7 +294,7 @@
         "mode": "TETRA",
         "name": "Rafael Soares",
         "call": "CR7BDX-8",
-        "location": "Tetra",
+        "location": "Nadadouro",
         "symbol": "/[",
         "comment": "Tetra Station"
     },
@@ -294,7 +304,7 @@
         "mode": "TETRA",
         "name": "Francisco Carmo",
         "call": "F4VSE-8",
-        "location": "Tetra",
+        "location": "Dunkerque",
         "symbol": "/[",
         "comment": "APRS via TETRA - STP9040"
     }
