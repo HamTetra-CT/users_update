@@ -30,6 +30,16 @@
         "comment": "Tetra Station"
     },
     {
+        "tsi": "09011638302683046",
+        "idtype": "tsi",
+        "mode": "TETRA",
+        "name": "João Abreu",
+        "call": "CT1EON-8",
+        "location": "Alcabideche",
+        "symbol": "/[",
+        "comment": "MTP850 - APRS via Tetra"
+    },
+    {
         "tsi": "09011638302683066",
         "idtype": "tsi",
         "mode": "TETRA",
