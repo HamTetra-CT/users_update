@@ -229,6 +229,16 @@
         "comment": "Tetra Station"
     },
     {
+        "tsi": "09011638302683267",
+        "idtype": "tsi",
+        "mode": "TETRA",
+        "name": "ARRLx",
+        "call": "CS5LX-8",
+        "location": "Lisboa",
+        "symbol": "/[",
+        "comment": "MTP850 - APRS via Tetra"
+    },
+    {
         "tsi": "09011638302683062",
         "idtype": "tsi",
         "mode": "TETRA",
