@@ -1,5 +1,15 @@
 [
     {
+        "tsi": "09011638302680419",
+        "idtype": "tsi",
+        "mode": "TETRA",
+        "name": "Júlio Branco",
+        "call": "CT1BJR-8",
+        "location": "Setúbal",
+        "symbol": "/[",
+        "comment": "APRS via Tetra"
+    },
+    {
         "tsi": "09011638302683262",
         "idtype": "tsi",
         "mode": "TETRA",
