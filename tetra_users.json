@@ -308,7 +308,7 @@
         "symbol": "/[",
         "comment": "STP9040 - APRS via TETRA"
     },
-	{
+    {
         "tsi": "09011638303283000",
         "idtype": "tsi",
         "mode": "TETRA",
@@ -318,7 +318,7 @@
         "symbol": "/[",
         "comment": "MTM800E - APRS via TETRA - Movel"
     },
-	{
+    {
         "tsi": "09011638303283001",
         "idtype": "tsi",
         "mode": "TETRA",
@@ -328,7 +328,7 @@
         "symbol": "/[",
         "comment": "MXP600 - APRS via TETRA"
     },
-	{
+    {
         "tsi": "09011638303283002",
         "idtype": "tsi",
         "mode": "TETRA",
@@ -338,7 +338,7 @@
         "symbol": "/[",
         "comment": "MTP6650 - APRS via TETRA"
     },
-	{
+    {
         "tsi": "09011638303283003",
         "idtype": "tsi",
         "mode": "TETRA",
@@ -348,7 +348,7 @@
         "symbol": "/[",
         "comment": "MTH800 - APRS via TETRA"
     },
-	{
+    {
         "tsi": "09011638303283004",
         "idtype": "tsi",
         "mode": "TETRA",
