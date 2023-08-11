@@ -359,6 +359,16 @@
         "comment": "Hytera PT580H - APRS via TETRA"
     },
     {
+        "tsi": "09011638300000283",
+        "idtype": "tsi",
+        "mode": "TETRA",
+        "name": "Gustavo",
+        "call": "CS7ATL-99",
+        "location": "Carcavelos",
+        "symbol": "/[",
+        "comment": "MTP850 - APRS via TETRA"
+    },
+    {
         "tsi": "09011638302683322",
         "idtype": "tsi",
         "mode": "TETRA",
