@@ -5,7 +5,9 @@
 
 echo "A inicializar..."
 sudo systemctl stop svxlink
-sleep 1
+sleep 2
+echo "Script provided by HamTetra-CT Dev Team & made by Francisco Carmo F4VSE / CT7AJM"
+sleep 3
 
 # Download the latest version of the file from GitHub
 echo "A iniciar transferência do novo ficheiro tetra_users..."
