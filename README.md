@@ -40,7 +40,6 @@ sudo crontab -e
 ```
 0 4 */2 * * /sbin/shutdown -r now
 ```
-
+⚠️ Atenção! Para que a actualização/novo ficheiro passe a ter efeito, o serviço (programa) SVXLink tem de ser reiniciado.
 
 ### ✅ Terminado! O script vai ser lançado todos os 2 dias e fazer a actualização do ficheiro *"tetra_users.json"* caso seja necessário ou haja uma actualização disponível. 
-⚠️ Atenção! Para que a actualização/novo ficheiro passe a ter efeito, o serviço (programa) SVXLink tem de ser reiniciado.
