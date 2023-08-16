@@ -130,6 +130,16 @@
         "comment": "STP8040 - APRS via TETRA"
     },
     {
+        "tsi": "09011638302681089",
+        "idtype": "tsi",
+        "mode": "TETRA",
+        "name": "Vitor Silva",
+        "call": "CT7AMK-8",
+        "location": "Gondomar",
+        "symbol": "/[",
+        "comment": "MTH800 - APRS via TETRA"
+    },
+    {
         "tsi": "09011638302680410",
         "idtype": "tsi",
         "mode": "TETRA",
