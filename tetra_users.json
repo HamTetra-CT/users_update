@@ -94,10 +94,10 @@
         "idtype": "tsi",
         "mode": "TETRA",
         "name": "Carlos Nora",
-        "call": "CT1END-8",
+        "call": "CT1END-7",
         "location": "Massamá Norte",
         "symbol": "/[",
-        "comment": "Tetra Station"
+        "comment": "Portatil"
     },
     {
         "tsi": "09011638302684019",
