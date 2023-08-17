@@ -26,5 +26,5 @@
   { "tsi" : "09011638302683283", "idtype" : "tsi", "mode" : "TETRA", "name" : "Gustavo Encarnação", "call" : "CR7ATL-8", "location" : "Tetra", "symbol" : "/[", "comment" : "Tetra Station" },
   { "tsi" : "09011638302683322", "idtype" : "tsi", "mode" : "TETRA", "name" : "Miguel Teixeira", "call" : "CR7AUX-8", "location" : "Tetra", "symbol" : "/[", "comment" : "Tetra Station" },
   { "tsi" : "09011638302680258", "idtype" : "tsi", "mode" : "TETRA", "name" : "Rafael Soares", "call" : "CR7BDX-8", "location" : "Tetra", "symbol" : "/[", "comment" : "Tetra Station" },
-  { "tsi" : "09011638302089218", "idtype" : "tsi", "mode" : "TETRA", "name" : "Francisco Carmo", "call" : "F4VSE-8", "location" : "Tetra", "symbol" : "/[", "comment" : "Tetra Station" }
+  { "tsi" : "09011638302089218", "idtype" : "tsi", "mode" : "TETRA", "name" : "Francisco Carmo", "call" : "F4VSE-8", "location" : "Dunkerque", "symbol" : "/[", "comment" : "Tetra Station" }
 ]
