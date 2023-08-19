@@ -50,6 +50,16 @@
 		"comment": "MTP850 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302680423",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Marcus Vieira",
+		"call": "CR7BKV-8",
+		"location": "Santo Tirso",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+        },
+	{
 		"tsi": "09011638302683062",
 		"idtype": "tsi",
 		"mode": "TETRA",
