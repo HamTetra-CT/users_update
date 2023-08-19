@@ -1,15 +1,5 @@
 [
 	{
-		"tsi": "09011638300000283",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Gustavo",
-		"call": "CR7ATL-8",
-		"location": "Carcavelos",
-		"symbol": "/[",
-		"comment": "MTP850 - APRS via TETRA"
-	},
-	{
 		"tsi": "09011638302683322",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -29,6 +19,26 @@
 		"symbol": "/[",
 		"comment": "Tetra Station"
 	},
+        {
+		"tsi": "09011638302680422",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João Gordo",
+		"call": "CR7BKU-1",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTM800 - APRS via TETRA"
+        },
+	{
+		"tsi": "09011638300422001",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João Gordo",
+		"call": "CR7BKU-8",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTP6550 - APRS via TETRA"
+        },	
 	{
 		"tsi": "09011638302683267",
 		"idtype": "tsi",
