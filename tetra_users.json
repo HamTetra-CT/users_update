@@ -10,6 +10,16 @@
 		"comment": "Tetra Station"
 	},
 	{
+		"tsi": "09011638302683340",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "José Fernandes",
+		"call": "CR7AVI-8",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+        },
+	{
 		"tsi": "09011638302680258",
 		"idtype": "tsi",
 		"mode": "TETRA",
