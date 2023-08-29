@@ -250,6 +250,16 @@
 		"comment": "Tetra Station"
 	},
 	{
+		"tsi": "09011638302683007",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Jorge Santos",
+		"call": "CT1JIB-4",
+		"location": "Palmela",
+		"symbol": "/[",
+		"comment": "handheld"
+        },
+	{
 		"tsi": "09011638302684011",
 		"idtype": "tsi",
 		"mode": "TETRA",
