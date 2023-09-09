@@ -247,7 +247,7 @@
 		"call": "CT1HDC-8",
 		"location": "Lisboa",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683007",
