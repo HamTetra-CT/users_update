@@ -150,6 +150,16 @@
 		"comment": "Hytera PT580H - APRS via TETRA"
 	},
 	{
+        	"tsi": "09011638302680336",
+        	"idtype": "tsi",
+        	"mode": "TETRA",
+        	"name": "Alexandre Badalo",
+        	"call": "CS7AXE-8",
+        	"location": "Lisboa",
+        	"symbol": "/[",
+        	"comment": "MTP850 - APRS via TETRA"
+	},
+	{
 		"tsi": "09011638302680419",
 		"idtype": "tsi",
 		"mode": "TETRA",
