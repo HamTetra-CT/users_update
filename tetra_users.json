@@ -469,4 +469,14 @@
 		"symbol": "/[",
 		"comment": "APRS via TETRA - STP9040"
 	}
+	{
+        	"tsi": "09011638302065011",
+        	"idtype": "tsi",
+        	"mode": "TETRA",
+        	"name": "Manoel",
+        	"call": "ON6RF-7",
+        	"location": "Belgium",
+        	"symbol": "/[",
+        	"comment": "Portatil"
+	},
 ]
