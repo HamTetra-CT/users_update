@@ -468,7 +468,7 @@
 		"location": "Dunkerque",
 		"symbol": "/[",
 		"comment": "APRS via TETRA - STP9040"
-	}
+	},
 	{
         	"tsi": "09011638302065011",
         	"idtype": "tsi",
@@ -478,5 +478,5 @@
         	"location": "Belgium",
         	"symbol": "/[",
         	"comment": "Portatil"
-	},
+	}
 ]
