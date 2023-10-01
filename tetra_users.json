@@ -77,7 +77,7 @@
 		"call": "CR7BKV-8",
 		"location": "Santo Tirso",
 		"symbol": "/[",
-		"comment": "APRS via TETRA"
+		"comment": "MTP850 - APRS via TETRA"
         },
 	{
 		"tsi": "09011638302683062",
@@ -237,7 +237,7 @@
 		"call": "CT1ETG-8",
 		"location": "Alcabideche",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP850 - Tetra Station"
 	},
 	{
 		"tsi": "09011638302683070",
@@ -367,7 +367,7 @@
 		"call": "CT2IXP-8",
 		"location": "Alfena",
 		"symbol": "/[",
-		"comment": "Estação Portátil"
+		"comment": "MTP850 - Estação Portátil"
 	},
 	{
 		"tsi": "09011638302682113",
@@ -467,7 +467,7 @@
 		"call": "F4VSE-8",
 		"location": "Dunkerque",
 		"symbol": "/[",
-		"comment": "APRS via TETRA - STP9040"
+		"comment": "STP9040 - APRS via TETRA"
 	},
 	{
         	"tsi": "09011638302065011",
@@ -477,6 +477,6 @@
         	"call": "ON6RF-7",
         	"location": "Belgium",
         	"symbol": "/[",
-        	"comment": "Portatil"
+        	"comment": "MXP600 - Portatil"
 	}
 ]
