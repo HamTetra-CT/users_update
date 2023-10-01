@@ -277,7 +277,7 @@
 		"call": "CT1JIB-4",
 		"location": "Palmela",
 		"symbol": "/[",
-		"comment": "handheld"
+		"comment": "Handheld"
         },
 	{
 		"tsi": "09011638302684011",
@@ -307,7 +307,7 @@
 		"call": "CT2GRF-8",
 		"location": "Quinta Do Conde",
 		"symbol": "/[",
-		"comment": "portatil"
+		"comment": "Portatil"
 	},
 	{
 		"tsi": "09011638302683325",
