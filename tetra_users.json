@@ -7,7 +7,7 @@
 		"call": "CR7AUX-8",
 		"location": "Oeiras",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP850 - Tetra Station"
 	},
 	{
 		"tsi": "09011638302683340",
@@ -27,7 +27,7 @@
 		"call": "CR7BDX-8",
 		"location": "Nadadouro",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP850 - Tetra Station"
 	},
         {
 		"tsi": "09011638302680422",
@@ -107,7 +107,7 @@
 		"call": "CS7ATL-8",
 		"location": "Carcavelos",
 		"symbol": "/[",
-		"comment": "Sepura STP9040 - APRS via TETRA"
+		"comment": "STP9040 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638303283000",
@@ -117,7 +117,7 @@
 		"call": "CS7ATL-20",
 		"location": "Carcavelos",
 		"symbol": "/[",
-		"comment": "Motorola MTM800E - APRS via TETRA - Movel"
+		"comment": "MTM800E - APRS via TETRA - Movel"
 	},
 	{
 		"tsi": "09011638303283001",
@@ -127,7 +127,7 @@
 		"call": "CS7ATL-21",
 		"location": "Carcavelos",
 		"symbol": "/[",
-		"comment": "Motorola MXP600 - APRS via TETRA"
+		"comment": "MXP600 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638303283002",
@@ -137,7 +137,7 @@
 		"call": "CS7ATL-22",
 		"location": "Carcavelos",
 		"symbol": "/[",
-		"comment": "Motorola MTH800 - APRS via TETRA"
+		"comment": "MTH800 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638303283003",
@@ -147,7 +147,7 @@
 		"call": "CS7ATL-23",
 		"location": "Carcavelos",
 		"symbol": "/[",
-		"comment": "Motorola MTP850 - APRS via TETRA"
+		"comment": "MTP850 - APRS via TETRA"
 	},
 	{
  		"tsi": "09011638303283004",
@@ -157,7 +157,7 @@
   		"call": "CS7ATL-24",
   		"location": "Carcavelos",
   		"symbol": "\\c",
- 		"comment": "Hytera PT580H - APRS via TETRA"
+ 		"comment": "PT580H - APRS via TETRA"
 	},
 	{
         	"tsi": "09011638302680336",
@@ -247,7 +247,7 @@
 		"call": "CT1FNG-8",
 		"location": "Lisboa",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP6650 - Tetra Station"
 	},
 	{
 		"tsi": "09011638302680118",
@@ -287,7 +287,7 @@
 		"call": "CT2GKS-8",
 		"location": "Samouco",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "CEP400 - Tetra Station"
 	},
 	{
 		"tsi": "09011638302683018",
@@ -297,7 +297,7 @@
 		"call": "CT2GQI-8",
 		"location": "Amadora",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP850S - Tetra Station"
 	},
 	{
 		"tsi": "09011638302683120",
@@ -407,7 +407,7 @@
 		"call": "CT7ADH-8",
 		"location": "Alpiarça",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP6650 - Tetra Station"
 	},
 	{
 		"tsi": "09011638302683101",
@@ -437,7 +437,7 @@
 		"call": "CT7AMK-8",
 		"location": "Gondomar",
 		"symbol": "/[",
-		"comment": "MTH800 - APRS via TETRA"
+		"comment": "MTP3550 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302680410",
