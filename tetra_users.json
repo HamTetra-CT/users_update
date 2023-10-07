@@ -370,6 +370,16 @@
 		"comment": "MTP850 - Estação Portátil"
 	},
 	{
+		"tsi": "09011638302683008",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Luis Franco",
+		"call": "CT2KEV-8",
+		"location": "Torres Vedras",
+		"symbol": "/[",
+		"comment": "APRS VIA TETRA"
+	},
+	{
 		"tsi": "09011638302682113",
 		"idtype": "tsi",
 		"mode": "TETRA",
