@@ -180,6 +180,16 @@
 		"comment": "APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302683133",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Hermes",
+		"call": "CT1CRR-8",
+		"location": "SACAVEM",
+		"symbol": "/[",
+		"comment": "MTP3100 - Tetra Station"
+	},
+	{
 		"tsi": "09011638302683262",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -337,7 +347,7 @@
 		"call": "CT2HGP-8",
 		"location": "Orjo-Turquel",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP850S - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683050",
