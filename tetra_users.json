@@ -4,7 +4,7 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Miguel Teixeira",
-		"call": "CR7AUX-8",
+		"call": "CS7AUX-8",
 		"location": "Oeiras",
 		"symbol": "/[",
 		"comment": "MTP850 - Tetra Station"
@@ -164,7 +164,7 @@
         	"idtype": "tsi",
         	"mode": "TETRA",
         	"name": "Alexandre Badalo",
-        	"call": "CS7AXE-8",
+        	"call": "CT7AXE-8",
         	"location": "Lisboa",
         	"symbol": "/[",
         	"comment": "MTP850 - APRS via TETRA"
