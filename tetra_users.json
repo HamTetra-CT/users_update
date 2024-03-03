@@ -57,7 +57,17 @@
 		"call": "CR7BKU-7",
 		"location": "Cascais",
 		"symbol": "/[",
-		"comment": "MTP850 - APRS via TETRA"
+		"comment": "MTP850S - APRS via TETRA"
+        },	
+    {
+		"tsi": "09011638300422003",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CR7BKU-9",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "STP9040 - APRS via TETRA"
         },	
 	{
 		"tsi": "09011638302683267",
@@ -87,7 +97,7 @@
 		"call": "CS7AGH-8",
 		"location": "Seixal",
 		"symbol": "/[",
-		"comment": "Tetra Station"
+		"comment": "MTP850S - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683199",
@@ -160,14 +170,14 @@
  		"comment": "PT580H - APRS via TETRA"
 	},
 	{
-        	"tsi": "09011638302680336",
-        	"idtype": "tsi",
-        	"mode": "TETRA",
-        	"name": "Alexandre Badalo",
-        	"call": "CT7AXE-8",
-        	"location": "Lisboa",
-        	"symbol": "/[",
-        	"comment": "MTP850 - APRS via TETRA"
+        "tsi": "09011638302680336",
+        "idtype": "tsi",
+        "mode": "TETRA",
+        "name": "Alexandre Badalo",
+    	"call": "CT7AXE-8",
+       	"location": "Lisboa",
+       	"symbol": "/[",
+       	"comment": "MTP850 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302680419",
@@ -187,7 +197,7 @@
 		"call": "CT1CRR-8",
 		"location": "SACAVEM",
 		"symbol": "/[",
-		"comment": "MTP3100 - Tetra Station"
+		"comment": "MTP3100 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683262",
