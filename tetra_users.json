@@ -107,7 +107,7 @@
 		"call": "CS7AQR-8",
 		"location": "Azueira",
 		"symbol": "/[",
-		"comment": "Tetra Portable"
+		"comment": "APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683283",
@@ -170,14 +170,14 @@
  		"comment": "PT580H - APRS via TETRA"
 	},
 	{
-        "tsi": "09011638302680336",
-        "idtype": "tsi",
-        "mode": "TETRA",
-        "name": "Alexandre Badalo",
-    	"call": "CT7AXE-8",
-       	"location": "Lisboa",
-       	"symbol": "/[",
-       	"comment": "MTP850 - APRS via TETRA"
+                "tsi": "09011638302680336",
+                "idtype": "tsi",
+                "mode": "TETRA",
+                "name": "Alexandre Badalo",
+    	        "call": "CT7AXE-8",
+       	        "location": "Lisboa",
+         	"symbol": "/[",
+        	"comment": "MTP850 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302680419",
@@ -397,7 +397,7 @@
 		"call": "CT2IXP-8",
 		"location": "Alfena",
 		"symbol": "/[",
-		"comment": "MTP850 - Estação Portátil"
+		"comment": "MTP6650 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683008",
