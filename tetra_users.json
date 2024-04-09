@@ -90,6 +90,16 @@
 		"comment": "MTP850 - APRS via TETRA"
         },
 	{
+		"tsi": "09011638302680477",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Nuno Dias",
+		"call": "CR7BMR-8",
+		"location": "Seixal",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+        },
+	{
 		"tsi": "09011638302683062",
 		"idtype": "tsi",
 		"mode": "TETRA",
