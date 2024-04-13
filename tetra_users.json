@@ -125,7 +125,7 @@
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
 		"call": "CS7ATL-8",
-		"location": "Carcavelos",
+		"location": "Tires",
 		"symbol": "/[",
 		"comment": "STP9040 - APRS via TETRA"
 	},
@@ -134,8 +134,8 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-20",
-		"location": "Carcavelos",
+		"call": "CS7ATL-30",
+		"location": "Tires",
 		"symbol": "/[",
 		"comment": "MTM800E - APRS via TETRA - Movel"
 	},
@@ -144,8 +144,8 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-21",
-		"location": "Carcavelos",
+		"call": "CS7ATL-31",
+		"location": "Tires",
 		"symbol": "/[",
 		"comment": "MXP600 - APRS via TETRA"
 	},
@@ -154,28 +154,28 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-22",
-		"location": "Carcavelos",
+		"call": "CS7ATL-32",
+		"location": "Tires",
 		"symbol": "/[",
-		"comment": "MTH800 - APRS via TETRA"
+		"comment": "MTP6650 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638303283003",
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-23",
-		"location": "Carcavelos",
+		"call": "CS7ATL-33",
+		"location": "Tires",
 		"symbol": "/[",
-		"comment": "MTP850 - APRS via TETRA"
+		"comment": "MTH800 - APRS via TETRA"
 	},
 	{
  		"tsi": "09011638303283004",
   		"idtype": "tsi",
  		"mode": "TETRA",
   		"name": "Gustavo Encarnação",
-  		"call": "CS7ATL-24",
-  		"location": "Carcavelos",
+  		"call": "CS7ATL-34",
+  		"location": "Tires",
   		"symbol": "\\c",
  		"comment": "PT580H - APRS via TETRA"
 	},
