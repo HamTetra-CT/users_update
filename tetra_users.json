@@ -327,7 +327,7 @@
 		"call": "CT2GPI-8",
 		"location": "Vila Franca de Xira",
 		"symbol": "/[",
-		"comment": "MTP850 - APRS via TETRA"
+		"comment": "MTP3550 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683018",
