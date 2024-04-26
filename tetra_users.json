@@ -334,6 +334,16 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gonçalo Springer",
+		"call": "CT2GQI-7",
+		"location": "Amadora",
+		"symbol": "/[",
+		"comment": "MTP850S - Tetra Station"
+	},
+	{
+		"tsi": "09011638302683084",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gonçalo Springer",
 		"call": "CT2GQI-8",
 		"location": "Amadora",
 		"symbol": "/[",
