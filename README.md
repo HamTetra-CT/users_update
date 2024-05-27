@@ -1,4 +1,4 @@
-# Portuguese TETRA Users Update
+# 🇵🇹 Portuguese TETRA Users Update
 
 ### ⚙️ Automatização da actualização do ficheiro utilizadores TETRA Portugal (HamTetra-CT).
 
