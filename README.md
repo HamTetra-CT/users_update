@@ -24,7 +24,9 @@ sudo chmod +x /home/pi/update_tetra_users.sh
 ```
 ./update_tetra_users.sh
 ```
->⚠️ Deverá obter um retorno a indicar que a actualização foi concluída com sucesso.
+
+> [!IMPORTANT]
+> ⚠️ Deverá obter um retorno a indicar que a actualização foi concluída com sucesso.
 
 #### 4 - *(Opcional)* Criar um agendamento (todas as 48h) para a actualização:
 
@@ -40,6 +42,8 @@ sudo crontab -e
 ```
 0 4 */2 * * /sbin/shutdown -r now
 ```
->⚠️ Atenção! Para que a actualização/novo ficheiro passe a ter efeito, o serviço (programa) SVXLink tem de ser reiniciado.
+
+> [!WARNING]
+> ⚠️ Atenção! Para que a actualização/novo ficheiro passe a ter efeito, o serviço (programa) SVXLink tem de ser reiniciado.
 
 ### ✅ Terminado! O script vai ser lançado todos os 2 dias e fazer a actualização do ficheiro *"tetra_users.json"* caso seja necessário ou haja uma actualização disponível. 
