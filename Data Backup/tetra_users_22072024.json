@@ -1,0 +1,572 @@
+[
+	{
+		"tsi": "09011638302683322",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Miguel Teixeira",
+		"call": "CS7AUX-8",
+		"location": "Oeiras",
+		"symbol": "/[",
+		"comment": "MTP850 - Tetra Station"
+	},
+	{
+		"tsi": "09011638302683340",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "José Fernandes",
+		"call": "CR7AVI-8",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+        },
+	{
+		"tsi": "09011638302680258",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Rafael Soares",
+		"call": "CR7BDX-8",
+		"location": "Nadadouro",
+		"symbol": "/[",
+		"comment": "MTP850 - Tetra Station"
+	},
+        {
+		"tsi": "09011638302680422",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CR7BKU",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTM800 - APRS via TETRA"
+        },
+	{
+		"tsi": "09011638300422001",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CR7BKU-8",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTP6650 - APRS via TETRA"
+        },	
+	{
+		"tsi": "09011638300422002",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CR7BKU-7",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTP850S - APRS via TETRA"
+        },	
+    {
+		"tsi": "09011638300422003",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CR7BKU-9",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "STP9040 - APRS via TETRA"
+        },	
+	{
+		"tsi": "09011638302683267",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "ARRLx",
+		"call": "CS5LX-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302680423",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Marcus Vieira",
+		"call": "CR7BKV-8",
+		"location": "Santo Tirso",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+        },
+	{
+		"tsi": "09011638302680477",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Nuno Dias",
+		"call": "CR7BMR-8",
+		"location": "Seixal",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+        },
+	{
+		"tsi": "09011638302683062",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Paulo Martins",
+		"call": "CS7AGH-8",
+		"location": "Seixal",
+		"symbol": "/[",
+		"comment": "MTP850S - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683199",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "André Franco",
+		"call": "CS7AQR-8",
+		"location": "Azueira",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683283",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gustavo Encarnação",
+		"call": "CS7ATL-8",
+		"location": "Tires",
+		"symbol": "/[",
+		"comment": "STP9040 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638303283000",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gustavo Encarnação",
+		"call": "CS7ATL-30",
+		"location": "Tires",
+		"symbol": "/[",
+		"comment": "MTM800E - APRS via TETRA - Movel"
+	},
+	{
+		"tsi": "09011638302680492",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gustavo Encarnação",
+		"call": "CS7ATL-31",
+		"location": "Tires",
+		"symbol": "/[",
+		"comment": "MXP600 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638303283002",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gustavo Encarnação",
+		"call": "CS7ATL-32",
+		"location": "Tires",
+		"symbol": "/[",
+		"comment": "MTP6650 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638303283003",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gustavo Encarnação",
+		"call": "CS7ATL-33",
+		"location": "Tires",
+		"symbol": "/[",
+		"comment": "MTH800 - APRS via TETRA"
+	},
+	{
+ 		"tsi": "09011638303283004",
+  		"idtype": "tsi",
+ 		"mode": "TETRA",
+  		"name": "Gustavo Encarnação",
+  		"call": "CS7ATL-34",
+  		"location": "Tires",
+  		"symbol": "\\c",
+ 		"comment": "PT580H - APRS via TETRA"
+	},
+	{
+                "tsi": "09011638302680336",
+                "idtype": "tsi",
+                "mode": "TETRA",
+                "name": "Alexandre Badalo",
+    	        "call": "CT7AXE-8",
+       	        "location": "Lisboa",
+         	"symbol": "/[",
+        	"comment": "MTP850 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302680419",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Júlio Branco",
+		"call": "CT1BJR-8",
+		"location": "Setúbal",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683133",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Hermes",
+		"call": "CT1CRR-8",
+		"location": "SACAVEM",
+		"symbol": "/[",
+		"comment": "MTP3100 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683262",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Jorge Canena",
+		"call": "CT1CVT-8",
+		"location": "Alcochete",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302680377",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Rui Martins",
+		"call": "CT1EBH-8",
+		"location": "Ramada",
+		"symbol": "\\c",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302683166",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João Saraiva",
+		"call": "CT1EBZ-8",
+		"location": "Carnaxide",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302683041",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Carlos Nora",
+		"call": "CT1END-7",
+		"location": "Massamá Norte",
+		"symbol": "/[",
+		"comment": "Portatil"
+	},
+	{
+		"tsi": "09011638302683046",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João Abreu",
+		"call": "CT1EON-8",
+		"location": "Alcabideche",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683066",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Fernando Castanheira",
+		"call": "CT1ETG-8",
+		"location": "Alcabideche",
+		"symbol": "/[",
+		"comment": "MTP850 - Tetra Station"
+	},
+	{
+		"tsi": "09011638302683070",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Victor Barros",
+		"call": "CT1FNG-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "MTP6650 - Tetra Station"
+	},
+	{
+		"tsi": "09011638302680118",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "José Silva",
+		"call": "CT1FOE-8",
+		"location": "Portimão",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683001",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Paulo Pereira",
+		"call": "CT1HDC-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683007",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Jorge Santos",
+		"call": "CT1JIB-4",
+		"location": "Palmela",
+		"symbol": "/[",
+		"comment": "Handheld"
+        },
+	{
+		"tsi": "09011638302684011",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Paulo Pires",
+		"call": "CT2GKS-8",
+		"location": "Samouco",
+		"symbol": "/[",
+		"comment": "CEP400 - Tetra Station"
+	},
+	{
+		"tsi": "09011638302683013",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "David",
+		"call": "CT2GPI-8",
+		"location": "Vila Franca de Xira",
+		"symbol": "/[",
+		"comment": "MTP3550 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683018",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gonçalo Springer",
+		"call": "CT2GQI-7",
+		"location": "Amadora",
+		"symbol": "/[",
+		"comment": "MTP850S - Tetra Station"
+	},
+	{
+		"tsi": "09011638302683084",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gonçalo Springer",
+		"call": "CT2GQI-8",
+		"location": "Amadora",
+		"symbol": "/[",
+		"comment": "MTP850S - Tetra Station"
+	},
+	{
+		"tsi": "09011638302683120",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Jose",
+		"call": "CT2GRF-8",
+		"location": "Quinta Do Conde",
+		"symbol": "/[",
+		"comment": "Portatil"
+	},
+	{
+		"tsi": "09011638302683325",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Daniel Leitão",
+		"call": "CT2GXZ-8",
+		"location": "Silveira",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302683012",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Diogo Sentieiro",
+		"call": "CT2HEW-8",
+		"location": "Oeiras",
+		"symbol": "\\c",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302682008",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Pedro Almeida",
+		"call": "CT2HGP-8",
+		"location": "Orjo-Turquel",
+		"symbol": "/[",
+		"comment": "MTP850S - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683050",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Arlindo",
+		"call": "CT2IDB-8",
+		"location": "Torres Vedras",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302683061",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Daniel Mateus",
+		"call": "CT2IUL-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302681005",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Victor Moreira",
+		"call": "CT2IXP-8",
+		"location": "Alfena",
+		"symbol": "/[",
+		"comment": "MTP6650 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683010",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Pedro Costa",
+		"call": "CT2JTR-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "Portátil - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683008",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Luis Franco",
+		"call": "CT2KEV-8",
+		"location": "Torres Vedras",
+		"symbol": "/[",
+		"comment": "APRS VIA TETRA"
+	},
+	{
+		"tsi": "09011638302682113",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "José Melo",
+		"call": "CT4TX-8",
+		"location": "Coimbra",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302683329",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Paulo Dias",
+		"call": "CT5GMU-9",
+		"location": "Massama",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683139",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Carlos",
+		"call": "CT5JKU-8",
+		"location": "LOURINHÃ",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302684021",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Patricia",
+		"call": "CT5JTW-8",
+		"location": "Alpiarça",
+		"symbol": "/[",
+		"comment": "Tetra Portable"
+	},
+	{
+		"tsi": "09011638302684019",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Vasco Lopes",
+		"call": "CT7ADH-8",
+		"location": "Alpiarça",
+		"symbol": "/[",
+		"comment": "MTP6650 - Tetra Station"
+	},
+	{
+		"tsi": "09011638302683101",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Paulo Xarez",
+		"call": "CT7AFY-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302683109",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Francisco Carmo",
+		"call": "CT7AJM-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "STP8040 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302681089",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Vitor Silva",
+		"call": "CT7AMK-8",
+		"location": "Gondomar",
+		"symbol": "/[",
+		"comment": "MTP3550 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302680410",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Telmo Carlos",
+		"call": "CT7AMZ-8",
+		"location": "Caldas da Rainha",
+		"symbol": "/[",
+		"comment": "MTH800 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302686003",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Gerardo Silva",
+		"call": "CU3AT-8",
+		"location": "Angra Do Heroismo",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302081587",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Francisco",
+		"call": "F4VSE-9",
+		"location": "Dunkerque",
+		"symbol": "/>",
+		"comment": "SRG3900 - Mobile - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302089218",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Francisco Carmo",
+		"call": "F4VSE-8",
+		"location": "Dunkerque",
+		"symbol": "/[",
+		"comment": "STP9040 - APRS via TETRA"
+	},
+	{
+        	"tsi": "09011638302065011",
+        	"idtype": "tsi",
+        	"mode": "TETRA",
+        	"name": "Manoel",
+        	"call": "ON6RF-7",
+        	"location": "Belgium",
+        	"symbol": "/[",
+        	"comment": "MXP600 - Portatil"
+	}
+]
