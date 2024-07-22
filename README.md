@@ -47,3 +47,6 @@ sudo crontab -e
 > ⚠️ Atenção! Para que a actualização/novo ficheiro passe a ter efeito, o serviço (programa) SVXLink tem de ser reiniciado.
 
 ### ✅ Terminado! O script vai ser lançado todos os 2 dias e fazer a actualização do ficheiro *"tetra_users.json"* caso seja necessário ou haja uma actualização disponível. 
+
+# Stats
+![Alt](https://repobeats.axiom.co/api/embed/e7f8fad7d5f9b2cb011a6b98214eb497de4613a2.svg "Analytics by Repobeats")
