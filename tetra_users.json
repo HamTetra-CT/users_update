@@ -134,7 +134,7 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-30",
+		"call": "CS7ATL-8",
 		"location": "Tires",
 		"symbol": "/[",
 		"comment": "MTM800E - APRS via TETRA - Movel"
@@ -144,7 +144,7 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-31",
+		"call": "CS7ATL-10",
 		"location": "Tires",
 		"symbol": "/[",
 		"comment": "MXP600 - APRS via TETRA"
@@ -154,7 +154,7 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-32",
+		"call": "CS7ATL-7",
 		"location": "Tires",
 		"symbol": "/[",
 		"comment": "MTP6650 - APRS via TETRA"
@@ -164,7 +164,7 @@
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Gustavo Encarnação",
-		"call": "CS7ATL-33",
+		"call": "CS7ATL-8",
 		"location": "Tires",
 		"symbol": "/[",
 		"comment": "MTH800 - APRS via TETRA"
@@ -174,7 +174,7 @@
   		"idtype": "tsi",
  		"mode": "TETRA",
   		"name": "Gustavo Encarnação",
-  		"call": "CS7ATL-34",
+  		"call": "CS7ATL-7",
   		"location": "Tires",
   		"symbol": "\\c",
  		"comment": "PT580H - APRS via TETRA"
