@@ -510,6 +510,16 @@
 		"comment": "Tetra Station"
 	},
 	{
+		"tsi": "09011638302147630",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "JUAN CARLOS",
+		"call": "EA7BW-7",
+		"location": "CORDOBA",
+		"symbol": "/[",
+		"comment": "Portatil"
+	},
+	{
 		"tsi": "09011638302081587",
 		"idtype": "tsi",
 		"mode": "TETRA",
