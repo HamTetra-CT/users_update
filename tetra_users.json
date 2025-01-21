@@ -170,6 +170,16 @@
 		"comment": "APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302683078",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Carolino Carreira",
+		"call": "CT1CPK-8",
+		"location": "Alcochete",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},	
+	{
 		"tsi": "09011638302683133",
 		"idtype": "tsi",
 		"mode": "TETRA",
