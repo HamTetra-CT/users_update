@@ -510,6 +510,16 @@
 		"comment": "MTH800 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302680164",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Helder Esteves",
+		"call": "CT7BAF-8",
+		"location": "Cortes do Meio",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},
+	{
 		"tsi": "09011638302686003",
 		"idtype": "tsi",
 		"mode": "TETRA",
