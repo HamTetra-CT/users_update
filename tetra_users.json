@@ -520,6 +520,16 @@
 		"comment": "MTP850 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302680470",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Jose",
+		"call": "CU0ALR-8",
+		"location": "Açores",
+		"symbol": "/[",
+		"comment": "Portatil"
+	},
+	{
 		"tsi": "09011638302686003",
 		"idtype": "tsi",
 		"mode": "TETRA",
