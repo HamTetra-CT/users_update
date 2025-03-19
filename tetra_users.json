@@ -250,6 +250,16 @@
 		"comment": "MTP850 - Tetra Station"
 	},
 	{
+		"tsi": "09011638302683146",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Sergio Cardoso",
+		"call": "CT1EVU-8",
+		"location": "Montijo",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
 		"tsi": "09011638302683070",
 		"idtype": "tsi",
 		"mode": "TETRA",
