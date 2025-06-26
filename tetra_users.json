@@ -150,6 +150,16 @@
 		"comment": "Tetra-Portatil"
 	},
 	{
+		"tsi": "09011638302680233",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Luis Serrano",
+		"call": "CS7BAX-8",
+		"location": "Beja",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
+	{
                 "tsi": "09011638302680336",
                 "idtype": "tsi",
                 "mode": "TETRA",
