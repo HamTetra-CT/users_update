@@ -100,6 +100,16 @@
 		"comment": "MTP850S - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302680181",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Paulo Ganhito",
+		"call": "CS7AQC-8",
+		"location": "Seixal",
+		"symbol": "/[",
+		"comment": "MTP850 Via Tetra"
+	},	
+	{
 		"tsi": "09011638302683199",
 		"idtype": "tsi",
 		"mode": "TETRA",
