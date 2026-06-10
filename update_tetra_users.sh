@@ -11,7 +11,7 @@ echo "Script provided by HamTetra-CT Dev Team & made by Francisco Carmo F4VSE / 
 sleep 1
 
 # Variables
-URL="https://raw.githubusercontent.com/HamTetra-CT/users_update/main/tetra_users.json"
+URL="https://selfcare.hamtetra.pt/tetra_users.json"
 TARGET_FILE="/etc/svxlink/tetra_users.json"
 # Create a secure temporary file
 TMP_FILE=$(mktemp)
