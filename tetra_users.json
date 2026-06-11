@@ -78,7 +78,7 @@
 		"location": "Santo Tirso",
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
-        },
+    },
 	{
 		"tsi": "09011638302680477",
 		"idtype": "tsi",
@@ -88,7 +88,17 @@
 		"location": "Seixal",
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
-        },
+    },
+	{
+		"tsi": "09011638302680974",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Mariana",
+		"call": "CR7CDY-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+    },
 	{
 		"tsi": "09011638302683062",
 		"idtype": "tsi",
