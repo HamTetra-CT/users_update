@@ -589,6 +589,16 @@
 		"symbol": "/[",
 		"comment": "Tetra Station"
 	},
+		{
+		"tsi": "09011638302680022",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Arthur",
+		"call": "CT2GPU-8",
+		"location": "Barreiro",
+		"symbol": "/[",
+		"comment": "Tetra Station"
+	},
 	{
 		"tsi": "09011638302147630",
 		"idtype": "tsi",
