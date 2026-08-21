@@ -420,7 +420,17 @@
 		"comment": "Tetra Station"
 	},
 	{
-		"tsi": "09011638302683012",
+		"tsi": "09011638302680824",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Diogo Sentieiro",
+		"call": "CT2HEW-7",
+		"location": "Oeiras",
+		"symbol": "\\c",
+		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302680825",
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Diogo Sentieiro",
@@ -428,6 +438,16 @@
 		"location": "Oeiras",
 		"symbol": "\\c",
 		"comment": "Tetra Station"
+	},
+	{
+		"tsi": "09011638302683012",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Diogo Sentieiro",
+		"call": "CT2HEW-1",
+		"location": "Oeiras",
+		"symbol": "\\c",
+		"comment": "MXP660 via HamTETRA-CT"
 	},
 	{
 		"tsi": "09011638302682008",
