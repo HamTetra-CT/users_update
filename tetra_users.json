@@ -1,5 +1,35 @@
 [
 	{
+		"tsi": "09011638302629143",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Lawrence Williams",
+		"call": "DL1FLW-8",
+		"location": "Germany",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
+		"tsi": "09011638302632031",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Lawrence Williams",
+		"call": "DL1FLW-7",
+		"location": "Germany",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
+		"tsi": "09011638302636323",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Lawrence Williams",
+		"call": "DL1FLW-5",
+		"location": "Germany",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},	
+	{
 		"tsi": "09011638302680258",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -605,7 +635,7 @@
 		"mode": "TETRA",
 		"name": "JUAN CARLOS",
 		"call": "EA7BW-7",
-		"location": "CORDOBA",
+		"location": "CORDOBA, SPAIN",
 		"symbol": "/[",
 		"comment": "Portatil"
 	},
@@ -615,9 +645,9 @@
 		"mode": "TETRA",
 		"name": "Francisco",
 		"call": "F4VSE-9",
-		"location": "Dunkerque",
+		"location": "Dunkerque, France",
 		"symbol": "/>",
-		"comment": "SRG3900 - Mobile - APRS via TETRA"
+		"comment": "SRG3900 via HamTETRA-CT"
 	},
 	{
 		"tsi": "09011638302089218",
@@ -625,9 +655,9 @@
 		"mode": "TETRA",
 		"name": "Francisco Carmo",
 		"call": "F4VSE-8",
-		"location": "Dunkerque",
+		"location": "Dunkerque, France",
 		"symbol": "/[",
-		"comment": "STP9040 - APRS via TETRA"
+		"comment": "STP9040 via HamTETRA-CT"
 	},
 	{
 		"tsi": "09011638302065011",
@@ -637,6 +667,6 @@
 		"call": "ON6RF-7",
 		"location": "Belgium",
 		"symbol": "/[",
-		"comment": "MXP600 - Portatil"
+		"comment": "MXP600 via HamTETRA-CT"
 	}
 ]
