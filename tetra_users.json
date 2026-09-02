@@ -290,6 +290,16 @@
 		"comment": "Portatil"
 	},
 	{
+		"tsi": "09011638302682222",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Rui Brito",
+		"call": "CT1EPQ-8",
+		"location": "Guarda",
+		"symbol": "/[",
+		"comment": "Unknown - APRS via TETRA"
+	},
+	{
 		"tsi": "09011638302683046",
 		"idtype": "tsi",
 		"mode": "TETRA",
