@@ -480,6 +480,16 @@
 		"comment": "Tetra Station"
 	},
 	{
+		"tsi": "09011638302684044",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Nélson Barroso",
+		"call": "CT2IPI-8",
+		"location": "Vendas Novas",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},	
+	{
 		"tsi": "09011638302683061",
 		"idtype": "tsi",
 		"mode": "TETRA",
