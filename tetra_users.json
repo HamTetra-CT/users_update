@@ -1,25 +1,5 @@
 [
 	{
-		"tsi": "09011638302629143",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Lawrence Williams",
-		"call": "DL1FLW-8",
-		"location": "Germany",
-		"symbol": "/[",
-		"comment": "APRS via HamTETRA-CT"
-	},
-	{
-		"tsi": "09011638302632031",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Lawrence Williams",
-		"call": "DL1FLW-7",
-		"location": "Germany",
-		"symbol": "/[",
-		"comment": "APRS via HamTETRA-CT"
-	},
-	{
 		"tsi": "09011638302636323",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -810,6 +790,26 @@
 		"comment": "APRS via HamTETRA-CT"
 	},
 	{
+		"tsi": "09011638302629143",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Lawrence Williams",
+		"call": "DL1FLW-8",
+		"location": "Germany",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
+		"tsi": "09011638302632031",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Lawrence Williams",
+		"call": "DL1FLW-7",
+		"location": "Germany",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},	
+	{
 		"tsi": "09011638302147630",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -817,8 +817,18 @@
 		"call": "EA7BW-7",
 		"location": "CORDOBA, SPAIN",
 		"symbol": "/[",
-		"comment": "Portatil"
+		"comment": "APRS via HamTETRA-CT"
 	},
+	{
+		"tsi": "09011638302148002",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Jose Barbera",
+		"call": "EA8EE-8",
+		"location": "Las Palmas, Spain",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},	
 	{
 		"tsi": "09011638302081587",
 		"idtype": "tsi",
