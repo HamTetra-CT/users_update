@@ -10,86 +10,6 @@
 		"comment": "MTP850 - Tetra Station"
 	},
 	{
-		"tsi": "09011638302680713",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Francisco Lucas",
-		"call": "CR7BQS-8",
-		"location": "Alhandra",
-		"symbol": "/[",
-		"comment": "APRS via HamTETRA-CT"
-	},
-	{
-		"tsi": "09011638302680575",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Paulo Rodrigues",
-		"call": "CR7BQY-8",
-		"location": "Penacova",
-		"symbol": "/[",
-		"comment": "APRS via HamTETRA-CT"
-	},	
-	{
-		"tsi": "09011638302680422",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-8",
-		"location": "Cascais",
-		"symbol": "/j",
-		"comment": "MTM5400 - APRS via TETRA"
-	},
-	{
-		"tsi": "09011638300422001",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "/[",
-		"comment": "MTP3550 - APRS via TETRA"
-	},	
-	{
-		"tsi": "09011638300422002",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "/[",
-		"comment": "MTP850S - APRS via TETRA"
-	},	
-	{
-		"tsi": "09011638300422003",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "/[",
-		"comment": "STP9040 - APRS via TETRA"
-	},	
-	{
-		"tsi": "09011638300422004",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "\\c",
-		"comment": "MTP8500 - APRS via TETRA"
-	},	
-	{
-		"tsi": "09011638302683267",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "ARRLx",
-		"call": "CS5LX-8",
-		"location": "Lisboa",
-		"symbol": "/[",
-		"comment": "MTP850 - APRS via TETRA"
-	},
-	{
 		"tsi": "09011638302680423",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -110,11 +30,41 @@
 		"comment": "MTP850 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302680713",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Francisco Lucas",
+		"call": "CR7BQS-8",
+		"location": "Alhandra",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
+		"tsi": "09011638302680575",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Paulo Rodrigues",
+		"call": "CR7BQY-8",
+		"location": "Penacova",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
 		"tsi": "09011638302680794",
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Mariana",
 		"call": "CR7CDY-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302683267",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "ARRLx",
+		"call": "CS5LX-8",
 		"location": "Lisboa",
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
@@ -138,7 +88,7 @@
 		"location": "Seixal",
 		"symbol": "/[",
 		"comment": "MTP850 Via Tetra"
-	},	
+	},
 	{
 		"tsi": "09011638302683199",
 		"idtype": "tsi",
@@ -208,16 +158,56 @@
 		"location": "Barcelos",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
-		"tsi": "09011638302680336",
+		"tsi": "09011638300422001",
 		"idtype": "tsi",
 		"mode": "TETRA",
-		"name": "Alexandre Badalo",
-		"call": "CT7AXE-8",
-		"location": "Lisboa",
+		"name": "João",
+		"call": "CS7BKU-7",
+		"location": "Cascais",
 		"symbol": "/[",
-		"comment": "MTP850 - APRS via TETRA"
+		"comment": "MTP3550 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638300422002",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CS7BKU-7",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTP850S - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638300422003",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CS7BKU-7",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "STP9040 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638300422004",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CS7BKU-7",
+		"location": "Cascais",
+		"symbol": "\\c",
+		"comment": "MTP8500 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302680422",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CS7BKU-8",
+		"location": "Cascais",
+		"symbol": "/j",
+		"comment": "MTM5400 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302680419",
@@ -238,7 +228,7 @@
 		"location": "Alcochete",
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
-	},	
+	},
 	{
 		"tsi": "09011638302683133",
 		"idtype": "tsi",
@@ -288,7 +278,7 @@
 		"location": "Lisboa",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302683041",
 		"idtype": "tsi",
@@ -298,16 +288,6 @@
 		"location": "Massamá Norte",
 		"symbol": "/[",
 		"comment": "Portatil"
-	},
-	{
-		"tsi": "09011638302682222",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Rui Brito",
-		"call": "CT1EPQ-8",
-		"location": "Guarda",
-		"symbol": "/[",
-		"comment": "Unknown - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302683046",
@@ -320,6 +300,16 @@
 		"comment": "MTP850 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302682222",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Rui Brito",
+		"call": "CT1EPQ-8",
+		"location": "Guarda",
+		"symbol": "/[",
+		"comment": "Unknown - APRS via TETRA"
+	},
+	{
 		"tsi": "09011638302680747",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -328,7 +318,7 @@
 		"location": "Malcata",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302683066",
 		"idtype": "tsi",
@@ -398,7 +388,7 @@
 		"location": "São João da Talha",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302684011",
 		"idtype": "tsi",
@@ -428,7 +418,7 @@
 		"location": "Barreiro",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302683018",
 		"idtype": "tsi",
@@ -478,7 +468,17 @@
 		"location": "Rio de Mouro",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
+	{
+		"tsi": "09011638302683012",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Diogo Sentieiro",
+		"call": "CT2HEW-1",
+		"location": "Oeiras",
+		"symbol": "\\c",
+		"comment": "MXP660 via HamTETRA-CT"
+	},
 	{
 		"tsi": "09011638302680824",
 		"idtype": "tsi",
@@ -500,16 +500,6 @@
 		"comment": "APRS via HamTETRA-CT"
 	},
 	{
-		"tsi": "09011638302683012",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Diogo Sentieiro",
-		"call": "CT2HEW-1",
-		"location": "Oeiras",
-		"symbol": "\\c",
-		"comment": "MXP660 via HamTETRA-CT"
-	},
-	{
 		"tsi": "09011638302682008",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -518,6 +508,16 @@
 		"location": "Orjo-Turquel",
 		"symbol": "/[",
 		"comment": "MTP850S - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302681084",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Manuel Moreira",
+		"call": "CT2HMR-7",
+		"location": "Amarante",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
 	},
 	{
 		"tsi": "09011638302681001",
@@ -529,16 +529,6 @@
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
 	},
-	{
-		"tsi": "09011638302681084",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Manuel Moreira",
-		"call": "CT2HMR-7",
-		"location": "Amarante",
-		"symbol": "/[",
-		"comment": "APRS via HamTETRA-CT"
-	},	
 	{
 		"tsi": "09011638302683050",
 		"idtype": "tsi",
@@ -558,7 +548,7 @@
 		"location": "Viseu",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302682036",
 		"idtype": "tsi",
@@ -568,7 +558,7 @@
 		"location": "Póvoa Da Lousã",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302684044",
 		"idtype": "tsi",
@@ -578,7 +568,7 @@
 		"location": "Vendas Novas",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302683061",
 		"idtype": "tsi",
@@ -640,6 +630,16 @@
 		"comment": "APRS via HamTETRA-CT"
 	},
 	{
+		"tsi": "09011638302683309",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Bruno Antunes",
+		"call": "CT5IKE-8",
+		"location": "Odivelas",
+		"symbol": "/[",
+		"comment": "MTP6650 - APRS via TETRA"
+	},
+	{
 		"tsi": "09011638302683139",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -658,7 +658,7 @@
 		"location": "Porto",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302684021",
 		"idtype": "tsi",
@@ -668,16 +668,6 @@
 		"location": "Alpiarça",
 		"symbol": "/[",
 		"comment": "Tetra Portable"
-	},
-	{
-		"tsi": "09011638302683309",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Bruno Antunes",
-		"call": "CT5IKE-8",
-		"location": "Odivelas",
-		"symbol": "/[",
-		"comment": "MTP6650 - APRS via TETRA"
 	},
 	{
 		"tsi": "09011638302684019",
@@ -738,7 +728,17 @@
 		"location": "Travanca do Mondego",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
+	{
+		"tsi": "09011638302680336",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Alexandre Badalo",
+		"call": "CT7AXE-8",
+		"location": "Lisboa",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},
 	{
 		"tsi": "09011638302680164",
 		"idtype": "tsi",
@@ -758,7 +758,7 @@
 		"location": "Sassoeiros",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302680470",
 		"idtype": "tsi",
@@ -780,11 +780,11 @@
 		"comment": "APRS via HamTETRA-CT"
 	},
 	{
-		"tsi": "09011638302629143",
+		"tsi": "09011638302636323",
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Lawrence Williams",
-		"call": "DL1FLW-8",
+		"call": "DL1FLW-5",
 		"location": "Germany",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
@@ -800,15 +800,15 @@
 		"comment": "APRS via HamTETRA-CT"
 	},
 	{
-		"tsi": "09011638302636323",
+		"tsi": "09011638302629143",
 		"idtype": "tsi",
 		"mode": "TETRA",
 		"name": "Lawrence Williams",
-		"call": "DL1FLW-5",
+		"call": "DL1FLW-8",
 		"location": "Germany",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
+	},
 	{
 		"tsi": "09011638302147630",
 		"idtype": "tsi",
@@ -828,16 +828,6 @@
 		"location": "Las Palmas, Spain",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
-	},	
-	{
-		"tsi": "09011638302081587",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Francisco",
-		"call": "F4VSE-9",
-		"location": "Dunkerque, France",
-		"symbol": "/>",
-		"comment": "SRG3900 via HamTETRA-CT"
 	},
 	{
 		"tsi": "09011638302089218",
@@ -848,6 +838,16 @@
 		"location": "Dunkerque, France",
 		"symbol": "/[",
 		"comment": "STP9040 via HamTETRA-CT"
+	},
+	{
+		"tsi": "09011638302081587",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Francisco",
+		"call": "F4VSE-9",
+		"location": "Dunkerque, France",
+		"symbol": "/>",
+		"comment": "SRG3900 via HamTETRA-CT"
 	},
 	{
 		"tsi": "09011638302065011",
