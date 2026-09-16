@@ -450,6 +450,16 @@
 		"comment": "MTP3550 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302680022",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Arthur",
+		"call": "CT2GPU-8",
+		"location": "Barreiro",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},	
+	{
 		"tsi": "09011638302683018",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -796,16 +806,6 @@
 		"name": "Gerardo Silva",
 		"call": "CU3AT-8",
 		"location": "Angra Do Heroismo",
-		"symbol": "/[",
-		"comment": "APRS via HamTETRA-CT"
-	},
-		{
-		"tsi": "09011638302680022",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Arthur",
-		"call": "CT2GPU-8",
-		"location": "Barreiro",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
 	},
