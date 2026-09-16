@@ -1,6 +1,7 @@
 # 🇵🇹 Portuguese TETRA Users Update
 
 ### ⚙️ Automatização da actualização do ficheiro utilizadores TETRA Portugal (HamTetra-CT).
+<sup> *74 Indicativos Únicos! @Setembro2026* </sup>
 
 ---
 
@@ -49,4 +50,4 @@ sudo crontab -e
 ### ✅ Terminado! O script vai ser lançado todos os 2 dias e fazer a actualização do ficheiro *"tetra_users.json"* caso seja necessário ou haja uma actualização disponível. 
 
 ## 📊 Repo Stats -
-![Alt](https://repobeats.axiom.co/api/embed/e7f8fad7d5f9b2cb011a6b98214eb497de4613a2.svg "Analytics by Repobeats")
+![Alt](https://repobeats.axiom.co/api/embed/e7f8fad7d5f9b2cb011a6b98214eb497de4613a2.svg "Repobeats analytics image")
