@@ -98,7 +98,7 @@
 		"location": "Santo Tirso",
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
-    },
+	},
 	{
 		"tsi": "09011638302680477",
 		"idtype": "tsi",
@@ -108,7 +108,7 @@
 		"location": "Seixal",
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
-    },
+	},
 	{
 		"tsi": "09011638302680794",
 		"idtype": "tsi",
@@ -118,7 +118,7 @@
 		"location": "Lisboa",
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
-    },
+	},
 	{
 		"tsi": "09011638302683062",
 		"idtype": "tsi",
