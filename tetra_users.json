@@ -10,16 +10,6 @@
 		"comment": "MTP850 - Tetra Station"
 	},
 	{
-		"tsi": "09011638302680423",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "Marcus Vieira",
-		"call": "CR7BKV-8",
-		"location": "Santo Tirso",
-		"symbol": "/[",
-		"comment": "MTP850 - APRS via TETRA"
-	},
-	{
 		"tsi": "09011638302680477",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -209,6 +199,16 @@
 		"symbol": "/j",
 		"comment": "MTM5400 - APRS via TETRA"
 	},
+	{
+		"tsi": "09011638302680423",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Marcus Vieira",
+		"call": "CS7BKV-8",
+		"location": "Santo Tirso",
+		"symbol": "/[",
+		"comment": "MTP850 - APRS via TETRA"
+	},	
 	{
 		"tsi": "09011638302680419",
 		"idtype": "tsi",
