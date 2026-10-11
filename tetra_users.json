@@ -750,6 +750,16 @@
 		"comment": "MTP850 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302680860",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Rui",
+		"call": "CT7BPM-8",
+		"location": "Sao Joao da Madeira",
+		"symbol": "/[",
+		"comment": "APRS via TETRA"
+	},
+	{
 		"tsi": "09011638302683038",
 		"idtype": "tsi",
 		"mode": "TETRA",
