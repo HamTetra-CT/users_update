@@ -150,56 +150,6 @@
 		"comment": "APRS via HamTETRA-CT"
 	},
 	{
-		"tsi": "09011638300422001",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "/[",
-		"comment": "MTP3550 - APRS via TETRA"
-	},
-	{
-		"tsi": "09011638300422002",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "/[",
-		"comment": "MTP850S - APRS via TETRA"
-	},
-	{
-		"tsi": "09011638300422003",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "/[",
-		"comment": "STP9040 - APRS via TETRA"
-	},
-	{
-		"tsi": "09011638300422004",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-7",
-		"location": "Cascais",
-		"symbol": "\\c",
-		"comment": "MTP8500 - APRS via TETRA"
-	},
-	{
-		"tsi": "09011638302680422",
-		"idtype": "tsi",
-		"mode": "TETRA",
-		"name": "João",
-		"call": "CS7BKU-8",
-		"location": "Cascais",
-		"symbol": "/j",
-		"comment": "MTM5400 - APRS via TETRA"
-	},
-	{
 		"tsi": "09011638302680423",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -749,6 +699,56 @@
 		"symbol": "/[",
 		"comment": "MTP850 - APRS via TETRA"
 	},
+	{
+		"tsi": "09011638300422001",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CT7BKU-7",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTP3550 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638300422002",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CT7BKU-7",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "MTP850S - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638300422003",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CT7BKU-7",
+		"location": "Cascais",
+		"symbol": "/[",
+		"comment": "STP9040 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638300422004",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CT7BKU-7",
+		"location": "Cascais",
+		"symbol": "\\c",
+		"comment": "MTP8500 - APRS via TETRA"
+	},
+	{
+		"tsi": "09011638302680422",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João",
+		"call": "CT7BKU-8",
+		"location": "Cascais",
+		"symbol": "/j",
+		"comment": "MTM5400 - APRS via TETRA"
+	},	
 	{
 		"tsi": "09011638302680860",
 		"idtype": "tsi",
