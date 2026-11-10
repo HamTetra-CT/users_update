@@ -820,6 +820,16 @@
 		"comment": "APRS via HamTETRA-CT"
 	},
 	{
+		"tsi": "09011638302624560",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Wolfgang",
+		"call": "DK5KL-8",
+		"location": "Bergisch Gladbach",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
 		"tsi": "09011638302147630",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -835,7 +845,17 @@
 		"mode": "TETRA",
 		"name": "Jose Barbera",
 		"call": "EA8EE-8",
-		"location": "Las Palmas, Spain",
+		"location": "Las Palmas, ES",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
+		"tsi": "09011638302150611",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Andres",
+		"call": "EB1EWE-8",
+		"location": "Coruna, ES",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
 	},
