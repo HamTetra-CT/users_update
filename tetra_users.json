@@ -60,6 +60,16 @@
 		"comment": "MTP850 - APRS via TETRA"
 	},
 	{
+		"tsi": "09011638302681017",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "João Oliveira",
+		"call": "CS7AFH-8",
+		"location": "Mogo de Ansiães",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
 		"tsi": "09011638302683062",
 		"idtype": "tsi",
 		"mode": "TETRA",
@@ -826,6 +836,16 @@
 		"name": "Wolfgang",
 		"call": "DK5KL-8",
 		"location": "Bergisch Gladbach",
+		"symbol": "/[",
+		"comment": "APRS via HamTETRA-CT"
+	},
+	{
+		"tsi": "09011638302145441",
+		"idtype": "tsi",
+		"mode": "TETRA",
+		"name": "Juan Pardo",
+		"call": "EA5VJM-8",
+		"location": "Albacete, SPAIN",
 		"symbol": "/[",
 		"comment": "APRS via HamTETRA-CT"
 	},
